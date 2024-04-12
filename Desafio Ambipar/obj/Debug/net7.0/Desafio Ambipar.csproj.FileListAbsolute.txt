@@ -1,0 +1,15 @@
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\bin\Debug\net7.0\Desafio Ambipar.exe
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\bin\Debug\net7.0\Desafio Ambipar.deps.json
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\bin\Debug\net7.0\Desafio Ambipar.runtimeconfig.json
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\bin\Debug\net7.0\Desafio Ambipar.dll
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\bin\Debug\net7.0\Desafio Ambipar.pdb
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\Desafio Ambipar.csproj.AssemblyReference.cache
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\Desafio Ambipar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\Desafio Ambipar.AssemblyInfoInputs.cache
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\Desafio Ambipar.AssemblyInfo.cs
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\Desafio Ambipar.csproj.CoreCompileInputs.cache
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\Desafio Ambipar.dll
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\refint\Desafio Ambipar.dll
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\Desafio Ambipar.pdb
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\Desafio Ambipar.genruntimeconfig.cache
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Desafios .NET C#\Desafio Ambipar\obj\Debug\net7.0\ref\Desafio Ambipar.dll
